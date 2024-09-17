@@ -3,9 +3,9 @@ Python code for testing correct installation of dependencies for Pytorch cifar10
 
 # Installation
 
-1) Install Python `sudo apt install python`\ 
- pip3 `sudo apt install -y python3-pip`\ 
- and venv `sudo apt install -y python3.12-venv` 
+1) Install Python `sudo apt install python`  
+ pip3 `sudo apt install -y python3-pip`  
+ and venv `sudo apt install -y python3.12-venv`
 
 2) Create a venv `python3 -m venv env_name`
 

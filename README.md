@@ -15,3 +15,4 @@ Python code for testing correct installation of dependencies for Pytorch cifar10
 
 5) Install PyTorch by following https://pytorch.org/get-started/locally/ You should use the latest CUDA version supported by your system (likely just the latest available).
 
+6) Run `python3 cifartest.py` and see if there are any packages missing and/or cuda is available.

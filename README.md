@@ -13,6 +13,9 @@ Python code for testing correct installation of dependencies for Pytorch cifar10
 
 4) Activate the venv `source bin/activate`
 
-5) Install PyTorch by following https://pytorch.org/get-started/locally/ You should use the latest CUDA version supported by your system (likely just the latest available).
+5) Install PyTorch by following https://pytorch.org/get-started/locally/ You should use the latest CUDA version supported by your system (likely just the latest available). This will look something like the following:  
+'''
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+'''
 
 6) Run `python3 cifartest.py` and see if there are any packages missing and/or cuda is available.

@@ -180,3 +180,8 @@ testenv/bin/proton-viewer
 testenv/bin/proton
 testenv/bin/torchrun
 testenv/share/man/man1/isympy.1
+testenv/bin/fonttools
+testenv/bin/pyftmerge
+testenv/bin/ttx
+testenv/bin/pyftsubset
+testenv/share/man/man1/ttx.1

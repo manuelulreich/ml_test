@@ -172,3 +172,11 @@ testenv/bin/pip3.12
 testenv/bin/python
 testenv/bin/python3
 testenv/bin/python3.12
+testenv/bin/convert-caffe2-to-onnx
+testenv/bin/convert-onnx-to-caffe2
+testenv/bin/f2py
+testenv/bin/isympy
+testenv/bin/proton-viewer
+testenv/bin/proton
+testenv/bin/torchrun
+testenv/share/man/man1/isympy.1

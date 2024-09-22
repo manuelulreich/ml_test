@@ -185,3 +185,13 @@ testenv/bin/pyftmerge
 testenv/bin/ttx
 testenv/bin/pyftsubset
 testenv/share/man/man1/ttx.1
+cifar_net.pth
+data/cifar-10-python.tar.gz
+data/cifar-10-batches-py/batches.meta
+data/cifar-10-batches-py/data_batch_1
+data/cifar-10-batches-py/data_batch_2
+data/cifar-10-batches-py/data_batch_3
+data/cifar-10-batches-py/data_batch_4
+data/cifar-10-batches-py/data_batch_5
+data/cifar-10-batches-py/readme.html
+data/cifar-10-batches-py/test_batch
